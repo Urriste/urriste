@@ -3,7 +3,6 @@
 
 - 👨‍💻All my projects are in [https://urriste-dev.web.app](https://urriste-dev.web.app)
 
-- 📫 Contact me **lukeu2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
